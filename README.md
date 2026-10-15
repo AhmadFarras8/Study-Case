@@ -1,4 +1,4 @@
-# Kopi Kita — Coffee Shop Ordering Web App
+# Coffee Shop Ordering Web App
 
 ## Identity
 
