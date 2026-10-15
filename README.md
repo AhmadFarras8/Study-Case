@@ -92,16 +92,5 @@ coffee-shop/
 5. Open `http://localhost/coffee-shop/seed_admin.php` **once**, then **delete `seed_admin.php`**.
 6. Open `http://localhost/coffee-shop/`.
 
-Admin login: `admin@coffee.test` / `admin123` (change for real use).
+Admin login: `admin@coffeeshop` / `admin123` (change for real use).
 
-## 8. Testing checklist
-
-- [ ] As a guest, add items and place an order with a name → regular price, no discount
-- [ ] Register a new account → logged in automatically, discount banner shown
-- [ ] As that customer, place an order → 10% discount shown on cart, confirmation and My Orders
-- [ ] Add items as a guest, then log in → cart is kept and the discount applies
-- [ ] Log in as admin → add a product with an image and a price → it appears on the menu
-- [ ] Edit a product price → the new price is used in new orders; old orders keep the old price
-- [ ] Try uploading a `.php` or text file as the image → rejected
-- [ ] As a customer or guest, open `admin/index.php` → redirected to login / 403
-- [ ] Register with an existing email → "That email is already registered."
