@@ -6,7 +6,7 @@
 |-------------------------------|---------------|
 | Ahmad Farras Favian Al Efasi  | YOUR_NRP_HERE |
 
-Web Programming — Section 7 Case Study
+Web Programming — Case Study
 
 ---
 
